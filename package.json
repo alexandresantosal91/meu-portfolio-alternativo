@@ -1,0 +1,26 @@
+{
+  "name": "meu-portfolio-alternativo",
+  "version": "1.0.0",
+  "description": "Bem-vindo ao meu Portfólio Alternativo, uma plataforma online onde compartilho meu trabalho, currículo, histórico e projetos destacados.",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexandresantosal91/meu-portfolio-alternativo.git"
+  },
+  "keywords": [
+    "desenvolvimento web",
+    "frontend",
+    "JavaScript",
+    "React",
+    "projeto"
+  ],
+  "author": "\",",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexandresantosal91/meu-portfolio-alternativo/issues"
+  },
+  "homepage": "https://alexandresantos.vercel.app"
+}
